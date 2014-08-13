@@ -1,4 +1,3 @@
 Name: Princeton
 Age: 17
-Race: Pinoy
-Favourite word: Wew !
+Favourite food: Bananas!
