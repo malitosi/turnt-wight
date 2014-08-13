@@ -1,0 +1,3 @@
+Name: Princeton
+Age: 17
+Favourite food: Bananas!
